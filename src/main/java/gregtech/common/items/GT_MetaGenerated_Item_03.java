@@ -120,6 +120,15 @@ public class GT_MetaGenerated_Item_03
         ItemList.Circuit_Wafer_UHPIC.set(addItem(tLastID = 58, "UHPIC Wafer", "Raw Circuit", o));
         ItemList.Circuit_Chip_UHPIC.set(addItem(tLastID = 59, "Ultra High Power IC", "Ultra High Power Circuit", o));
 
+        ItemList.Circuit_Wafer_SoC3.set(addItem(tLastID = 60, "HASoC Wafer", "Raw Circuit", o));
+        ItemList.Circuit_Chip_SoC3.set(addItem(tLastID = 61, "HASoC", "High Advanced System on a Chip", o));
+
+        ItemList.Circuit_Wafer_SoC4.set(addItem(tLastID = 62, "UHASoC Wafer", "Raw Circuit", o));
+        ItemList.Circuit_Chip_SoC4.set(addItem(tLastID = 63, "UHASoC", "Ultra High Advanced System on a Chip", o));
+
+        ItemList.Circuit_Silicon_Ingot4.set(addItem(tLastID = 64, "Vibrant Alloy doped Monocrystalline Silicon Boule", "Raw Circuit", o));
+        ItemList.Circuit_Silicon_Wafer4.set(addItem(tLastID = 65, "Vibrant Alloy doped Wafer", "Raw Circuit", o));
+
         /**
          * Engraved Crystal Chip
          * Engraved Lapotron Chip
